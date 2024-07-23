@@ -1,2 +1,2 @@
-# House_pricing_predictor
+# House price predictor
 A school project on Linear Regression.
